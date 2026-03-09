@@ -38,10 +38,3 @@ more than 3 failures per minute per account
 | By account | user (22), WINDEV2407EVAL$ (28) |
 | Timeline | Spike at 14:07:00 |
 | Detection rule | 50 failures in 1 minute confirmed |
-
-09-4625-events-detected.png
-10-attack-timeline.png
-11-failure-stats.png
-12-full-event-detail-1.png
-13-full-event-detail-2.png
-14-brute-force-detection-query.png
